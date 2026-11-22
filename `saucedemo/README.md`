@@ -1,1 +1,39 @@
+# SauceDemo — Cypress Automation Testing
 
+An end-to-end (E2E) automation testing project for the SauceDemo e-commerce web application using Cypress and JavaScript.
+
+## Application Under Test
+
+- **Website:** https://www.saucedemo.com/
+- **Automation Tool:** Cypress
+- **Programming Language:** JavaScript
+- **Testing Approach:** End-to-End (E2E) Testing
+
+## Test Scenarios
+
+1. Verify login with valid credentials.
+2. Verify login with invalid credentials.
+3. Verify login with empty fields.
+4. Validate product listings.
+5. Add products to the shopping cart.
+6. Remove products from the shopping cart.
+7. Verify shopping cart details.
+8. Complete the checkout process.
+9. Validate checkout form fields.
+10. Verify successful order completion.
+
+## Project Objectives
+
+- Practice Cypress-based web automation.
+- Automate essential e-commerce user workflows.
+- Validate application functionality and user interactions.
+- Identify and document functional defects.
+- Develop practical E2E automation testing skills.
+
+## Tools & Technologies
+
+- Cypress
+- JavaScript
+- Node.js
+- npm
+- Git & GitHub
